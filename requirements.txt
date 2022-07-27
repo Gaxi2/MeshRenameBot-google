@@ -7,4 +7,3 @@ pillow
 hachoir
 pymongo
 dnspython
-
